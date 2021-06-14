@@ -6,9 +6,7 @@
 # Section 2 - Disallowed Mentions of Dream.
    The disallowed mentions are:
     
-   • Mentions of Dream as:
-       - A content creator
-       - A person
+   • Mentions of Dream as a content creator or a person
 
    • Things Dream has done
 
